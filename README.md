@@ -16,6 +16,23 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 # STEPS to run this project:
 
 
+## STEP 01:
+Download the simulator for windows32/64,Mac,Linux using the link given above
+
+
+## STEP 02:
+Click on the required Resolution and click play
+
+
+On the Home Screen of Click on the track required  and Click the training Mode Button 
+
+
+
+Then Click on the Record Button Select the path wher You want to store the training Data 
+
+
+
+
 ## STEP 01: 
 Clone the repository
 
