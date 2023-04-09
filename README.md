@@ -32,7 +32,7 @@ On the Home Screen of Click on the track required  and Click the training Mode B
 
 Then Click on the Record Button Select the path wher You want to store the training Data 
 
-<img src="https://github.com/rajeshXT/Self_Driving_Car-/raw/main/assets/sim_image.png" width=70% height=70%)
+<img src="https://github.com/rajeshXT/Self_Driving_Car-/raw/main/assets/sim_image.png" width=70% height=70%>
 
 
 
