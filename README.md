@@ -10,7 +10,6 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 
 [Repo link](https://github.com/udacity/self-driving-car-sim)
 
-![alt text](https://github.com/rajeshXT/Self_Driving_Car-/raw/main/assets/sim_image.png)
 
 
 # STEPS to run this project:
@@ -22,25 +21,29 @@ Download the simulator for windows32/64,Mac,Linux using the link given above
 
 ## STEP 02:
 Click on the required Resolution and click play
+![alt text](https://github.com/rajeshXT/Self_Driving_Car/raw/main/assets/Screenshot%202023-04-09%20221550.jpg)
+
 
 
 On the Home Screen of Click on the track required  and Click the training Mode Button 
+![alt text](https://github.com/rajeshXT/Self_Driving_Car/raw/main/assets/home_page_udacity.jpg)
 
 
 
 Then Click on the Record Button Select the path wher You want to store the training Data 
 
+![alt text](https://github.com/rajeshXT/Self_Driving_Car-/raw/main/assets/sim_image.png)
 
 
 
-## STEP 01: 
+## STEP 03: 
 Clone the repository
 
 ```bash
 https://github.com/rajeshXT/Self_Driving_Car.git
 ```
 
-## STEP 02: 
+## STEP 04: 
 Create an environment & activate
 
 
@@ -48,7 +51,7 @@ Create an environment & activate
 conda create -n sdcar python=3.7 -y
 ```
 
-## STEP 03: 
+## STEP 05: 
 Install the requirements
 
 
