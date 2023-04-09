@@ -10,6 +10,8 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 
 [Repo link](https://github.com/udacity/self-driving-car-sim)
 
+![alt text](https://github.com/rajeshXT/Self_Driving_Car-/raw/main/assets/sim_image.png)
+
 
 # STEPS to run this project:
 
