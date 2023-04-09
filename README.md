@@ -26,13 +26,13 @@ Click on the required Resolution and click play
 
 
 On the Home Screen of Click on the track required  and Click the training Mode Button 
-![alt text](https://github.com/rajeshXT/Self_Driving_Car/raw/main/assets/home_page_udacity.jpg)
+![alt text](https://github.com/rajeshXT/Self_Driving_Car/raw/main/assets/home_page_udacity.jpg width=50% height=50%)
 
 
 
 Then Click on the Record Button Select the path wher You want to store the training Data 
 
-![alt text](https://github.com/rajeshXT/Self_Driving_Car-/raw/main/assets/sim_image.png)
+![alt text](https://github.com/rajeshXT/Self_Driving_Car-/raw/main/assets/sim_image.png width=50% height=50%)
 
 
 
